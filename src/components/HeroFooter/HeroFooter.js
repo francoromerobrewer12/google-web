@@ -8,7 +8,6 @@ function HeroFooter() {
       scrollTrigger: {
         trigger: '#footer',
         start: 'top center',
-        markers: true,
         end: '+=200',
         scrub: true,
       },
